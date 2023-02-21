@@ -1,1 +1,4 @@
-# INIT
+# How to Start
+
+1. `npm i`
+2. `npm start`

@@ -1,0 +1,24 @@
+{
+  "name": "grace_shopper_2209",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leafoflegend/grace_shopper_2209.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leafoflegend/grace_shopper_2209/issues"
+  },
+  "homepage": "https://github.com/leafoflegend/grace_shopper_2209#readme",
+  "dependencies": {
+    "chalk": "^5.2.0"
+  }
+}
